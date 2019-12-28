@@ -1,0 +1,11 @@
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1.deps.json
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1.runtimeconfig.json
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1.runtimeconfig.dev.json
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1.dll
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/bin/Debug/netcoreapp3.0/test1.pdb
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/obj/Debug/netcoreapp3.0/test1.csprojAssemblyReference.cache
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/obj/Debug/netcoreapp3.0/test1.AssemblyInfoInputs.cache
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/obj/Debug/netcoreapp3.0/test1.AssemblyInfo.cs
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/obj/Debug/netcoreapp3.0/test1.dll
+/Users/LeoNguyen/Desktop/ASP.Net Projects/test1/test1/obj/Debug/netcoreapp3.0/test1.pdb
