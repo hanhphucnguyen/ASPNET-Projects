@@ -7,9 +7,8 @@ namespace test1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int o = 9;
 
-            Console.WriteLine(o);
+
         }
     }
 }
